@@ -1,0 +1,7 @@
+1- open the react app root folder 
+2- then open terminal in the react app folder 
+3- then enter "npm install gh-pages --save-dev"
+4- Then log in on github
+5- Then go to repositories and then click on new
+6- Now their enter your repository name and click on create repository
+7- Then you will see a section titled 'Quick setup — if you’ve done this kind of thing before' use the commands from this sections in the order given below 
